@@ -2,9 +2,9 @@
   
   A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
   ---
-<p><a href="https://hub.docker.com/r/reaitten/tgtlg"> <img src="https://img.shields.io/docker/pulls/reaitten/tgtlg?style=for-the-badge" width="150""/></a> <a href="https://hub.docker.com/layers/reaitten/tgtlg/latest/images/sha256-2f8b28fa0b7998fcc917589e211c40d4621ac0eb4181cb96a4d18bfcb74e368c?context=explore"> <img src="https://img.shields.io/docker/image-size/reaitten/tgtlg/latest?style=for-the-badge" width="150""/></a> <a href="https://github.com/reaitten/tgtlg"> <img src="https://img.shields.io/github/repo-size/reaitten/tgtlg?style=for-the-badge" width="150"/></a> <a href="https://github.com/reaitten/tgtlg/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/reaitten/tgtlg?style=for-the-badge" width="150"/></a></p> 
+<p><a href="https://hub.docker.com/r/ifilmsbotz/tgtlg"> <img src="https://img.shields.io/docker/pulls/reaitten/tgtlg?style=for-the-badge" width="150""/></a> <a href="https://hub.docker.com/layers/ifilmsbotz/tgtlg/latest/images/sha256-2f8b28fa0b7998fcc917589e211c40d4621ac0eb4181cb96a4d18bfcb74e368c?context=explore"> <img src="https://img.shields.io/docker/image-size/reaitten/tgtlg/latest?style=for-the-badge" width="150""/></a> <a href="https://github.com/ifilmsbotz/tgtlg"> <img src="https://img.shields.io/github/repo-size/ifilmsbotz/gtlg?style=for-the-badge" width="150"/></a> <a href="https://github.com/ifilmsbotz/tgtlg/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/ifilmsbotz/tgtlg?style=for-the-badge" width="150"/></a></p> 
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/reaitten/tgtlg?style=social) ![GitHub forks](https://img.shields.io/github/forks/reaitten/tgtlg?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/ifilmsbotz/tgtlg?style=social) ![GitHub forks](https://img.shields.io/github/forks/ifilmsbotz/tgtlg?style=social)
   ---
   # Table of Contents
   
