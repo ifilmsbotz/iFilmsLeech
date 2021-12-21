@@ -4,9 +4,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/reaitten/tgtlg",
+  "repository": "https://github.com/ifilmsbotz/tgtlg",
   "success_url": "https://t.me/orsixtyone",
-  "website": "https://github.com/reaitten/tgtlg",
+  "website": "https://github.com/ifilmsbotz/tgtlg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
